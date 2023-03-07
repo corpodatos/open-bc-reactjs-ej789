@@ -4,7 +4,7 @@ import { ListaContactos } from "./components/ListaContactos";
 function App() {
   return (
     <div className="App">
-        <ListaContactos></ListaContactos>
+      <ListaContactos></ListaContactos>
     </div>
   );
 }
